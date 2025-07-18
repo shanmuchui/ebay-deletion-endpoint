@@ -1,2 +1,2 @@
-const verificationToken = "PUT_YOUR_VERIFICATION_TOKEN_HERE";
-const endpoint = "https://YOUR_SITE_NAME.netlify.app/.netlify/functions/ebay-deletion";
+const verificationToken = "EbayAPI-ShippingResearch-Production-2025-xyz987uvw654rst321";
+const endpoint = "https://fluffy-semifreddo-536294.netlify.app/.netlify/functions/ebay-deletion";
